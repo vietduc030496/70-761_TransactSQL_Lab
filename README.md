@@ -1,7 +1,7 @@
 # 70-761_TransactSQL_Lab
 Lab for Microsoft 70-761 Exam
 
-#Required
+# Required
 
 SQL Server 2019: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
